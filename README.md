@@ -10,3 +10,5 @@ Let's make something awesome together!
 Thank you for stopping by, and don't forget to star your favorite repositories!
 
 Happy coding! 🚀
+
+[![tcsenpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcsenpai)](https://github.com/anuraghazra/github-readme-stats)
