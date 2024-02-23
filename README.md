@@ -17,7 +17,6 @@ Thank you for stopping by, and don't forget to star your favorite repositories!
 
 Happy coding! 🚀
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tcsenpai&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 [![tcsenpai's GitHub stats](https://github-readme-stats.vercel.app/api?username=tcsenpai&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
