@@ -1,8 +1,6 @@
 # Welcome to tcsenpai's GitHub!
 
-<img src="https://github-profile-trophy.vercel.app/?username=tcsenpai&theme=synthwave&no-bg=true" />
-
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<a href="https://app.daily.dev/tcsenpai"><img src="./devcard.png" width="356" alt="tcsenpai's Dev Card"/></a>
 
 👋 Hello! I'm tcsenpai, a fullstack developer and the CTO at [Kynesys XYZ](https://kynesys.xyz). 
 
