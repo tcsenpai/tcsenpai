@@ -1,8 +1,8 @@
 # Welcome to tcsenpai's GitHub!
 
-<a href="https://app.daily.dev/tcsenpai"><img src="./devcard.png" width="356" alt="tcsenpai's Dev Card"/></a>
-
 👋 Hello! I'm tcsenpai, a fullstack developer and the CTO at [Kynesys XYZ](https://kynesys.xyz). 
+
+<a href="https://app.daily.dev/thecookingsenpai"><img src="./devcard.png" width="356" alt="tcsenpai's Dev Card"/></a>
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
