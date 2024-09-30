@@ -1,5 +1,7 @@
 ![👋 Hi, nice to meet you! I am TCSenpai!](https://i.imghippo.com/files/LQzlt1727129684.png)
 
+<h3 align="center">Always verify my <a href="https://keys.openpgp.org/search?q=tcsenpai%40discus.sh">public key(s)</a></h3>
+
 ![Profile views](https://komarev.com/ghpvc/?username=tcsenpai&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
