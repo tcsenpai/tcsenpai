@@ -32,6 +32,14 @@
 - 💬 Ask me about: **💡 TypeScript, Javascript, Python, Blockchain and more**
 - 📝 Blog: **<a href="https://space.tcsenpai.com" target="_blank">https://space.tcsenpai.com</a>**
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/tcsenpai"
+  width="600"
+  height="300"
+/>
+</a>
+
 
  **<h3 align="left">Skills</h3>**
 
