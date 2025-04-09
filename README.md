@@ -1,6 +1,6 @@
 ![👋 Hi, nice to meet you! I am TCSenpai!](https://i.imghippo.com/files/LQzlt1727129684.png)
 
-<h3 align="center">Always verify my <a href="https://keys.openpgp.org/search?q=tcsenpai%40discus.sh">public key(s)</a></h3>
+<h3 align="center">Always verify my public key on <a href="https://keys.openpgp.org/search?q=tcsenpai%40discus.sh">OpenGPG key server</a> or <a href="https://paste.tcsenpai.com/?eb85fa5007a50752#9j1a6qKEboQBiT5yK9gKePtQ51T4EjX8SghLFS7JWd4Y">my pastebin</a> (or both)</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=tcsenpai&label=Profile%20views&color=0e75b6&style=flat)
 
