@@ -58,3 +58,7 @@
 
 
 
+
+## Support
+
+If this project saved you time, you can support my work via [PayPal](https://paypal.me/dacookingsenpai).
